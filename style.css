@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to right, rgb(103, 103, 245), white);
+    font: normal 15pt arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.422);
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#tx{
+    text-align: center;
+}
+#msg{
+    text-align: center;
+    padding-bottom: 12px;
+}
+img{
+    width: 165px;
+}
